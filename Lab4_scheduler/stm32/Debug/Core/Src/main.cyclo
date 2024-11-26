@@ -1,0 +1,13 @@
+../Core/Src/main.c:77:5:__io_putchar	1
+../Core/Src/main.c:82:6:LED1	1
+../Core/Src/main.c:86:6:LED2	1
+../Core/Src/main.c:89:6:LED3	1
+../Core/Src/main.c:92:6:LED4	1
+../Core/Src/main.c:95:6:LED5	1
+../Core/Src/main.c:102:5:main	1
+../Core/Src/main.c:167:6:SystemClock_Config	3
+../Core/Src/main.c:204:13:MX_TIM2_Init	4
+../Core/Src/main.c:249:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:282:13:MX_GPIO_Init	1
+../Core/Src/main.c:310:6:HAL_TIM_PeriodElapsedCallback	1
+../Core/Src/main.c:323:6:Error_Handler	1
