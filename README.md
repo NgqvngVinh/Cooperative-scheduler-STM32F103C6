@@ -32,9 +32,9 @@ In the demo above, you can observe:
 - **Task 3 (LED4):** Activates after 2000ms and repeats every 2000ms.
 - **Task 4 (LED5):** Activates after 2500ms and repeats every 2500ms.
 
-## Author
+<!-- ## Author
 <div align="center">
 <a href="https://github.com/NgqvngVinh" target="_blank">
   <img src="https://github.com/NgqvngVinh.png" alt="Avatar của tôi" width="60" style="border-radius: 50%;">
 </a>
-</div>
+</div> -->
