@@ -1,0 +1,33 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+*.o
+*.d
+*.cyclo
+*.su
+*.list
+*.map
+*.elf
+*.bin
+*.hex
+*.lss
+objects.list
+objects.mk
+sources.mk
+makefile
+
+# STM32CubeIDE per-user / generated state
+.mxproject
+.settings/
+
+# Proteus auto-backups & per-user workspace
+*.pdsbak
+*.pdsprj.*.workspace
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
